@@ -1,2 +1,1 @@
-# HIAF
-HIAF
+python app.py
